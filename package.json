@@ -1,0 +1,14 @@
+{
+  "name": "webpagelasnegras",
+  "version": "1.0.0",
+  "description": "Json for Web Page www.lasnegras.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Piedra Griffin",
+  "license": "ISC",
+  "dependencies": {
+    "normalize": "^0.3.1"
+  }
+}
